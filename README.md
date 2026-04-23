@@ -57,7 +57,7 @@ AquaWatch-AI/
 ## Installation & Setup
 
 bash
-git clone https://github.com/your-username/AquaWatch-AI.git
+git clone https://github.com/koushikreddy-p/Groundwater-Prediction.git
 cd AquaWatch-AI
 pip install -r requirements.txt
 python main.py
